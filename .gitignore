@@ -1,3 +1,10 @@
+.vscode
+/build
+/data/*.onnx
+/data/*.csv
+/data/*.Identifier
+*.Identifier
+
 # Prerequisites
 *.d
 
